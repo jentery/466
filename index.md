@@ -22,7 +22,7 @@ For you to:
 
 * Share sounds from your everyday with the balance of the class.
 * Unpack how sounds influence your everyday life as well as the “soundscapes” familiar to you.
-* Use audio as evidence in an argument about certain aspects of your routines.
+* Use audio as evidence in an argument about certain aspects of your routines / habits.
 * Consider how you represent yourself (e.g., what you tell or don’t tell your audience) through sound.
 * Gain some experience in deep listening, sound recording, and editing audio.
 
@@ -37,8 +37,8 @@ For you to:
 
 ## Steps (take them or leave them)
 
-1. Take a few days to listen to the sounds you here most often. No need to record them. Just attend to them.
-2. With a text editor, notebook, or the like, compose a playlist of at least eight sounds you hear often. Just the playlist, not the actual sounds. Be creative here. What sounds (e.g., commercials, voices, and noises) do you hear regularly? You might consider a theme to arrange or unify them. Perhaps there’s a relationship between these sounds and memory, labour, learning, friendships, habit, place . . . ?
+1. Take a few days to listen to the sounds you hear most often. No need to record them. Just attend to them.
+2. With a text editor, notebook, or the like, compose a playlist of at least eight sounds you hear often. Just the playlist, not the actual sounds. What sounds (e.g., commercials, voices, and noises) do you hear regularly? You might consider a theme to arrange or unify them. Perhaps there’s a relationship between these sounds and memory, labour, learning, friendships, habit, place . . . ?
 3. Next, try a test run. Briefly record a sound using whatever audio technology you decided to use this semester, transfer it to your computer (if applicable), import it into Audacity, and export it as an MP3. Note: Audacity will not import AC3, AMR(NB), M4A, or WMA. It will only import WAV, MP3, OGG, AU and AIFF. If need be, then you can use a program like iTunes to change the format. (In iTunes, under “preferences,” you can change the import settings to “MP3″ through the “when you insert CD” option. For PCs, “preferences” is under “edit,” and for Macs, it’s under “iTunes”.) If you are having difficulty with a test, then email me.
 4. Now record all of the sounds on your playlist. As you record, keep in mind where you are recording. Is the room noisy? Are you recording in such a way that accurately depicts an everyday situation for you? Or are you altering the situation for the purposes of recording? What perspective or position does your recording imply? If possible, then record with headphones on. That way, you can hear what you are recording. Most important, all sounds should fall within the realm of fair dealing, with permission. For example, if you are recording someone’s voice, then first ask permission to record them. During class, we will further discuss fair dealing and permissions and how they affect the work you do in this course.
 5. Import at least eight recordings into Audacity and edit them. I suggest dedicating one named track to each of your recordings. Also, for this assignment, you cannot add effects or computer-generated sounds, and your audiography should consist of contiguous recordings. Please refrain from too much, if any, layering. In other words, let the recordings from your audiography and its rationale (see above), not editing or voice-over, do most of the work. While some editing (e.g., trimming, copying, and pasting) will be necessary, try to keep it simple.
@@ -47,7 +47,7 @@ For you to:
 
 ## Outcomes
 
-Your audiography is an experiment in sound, style, and genre. It should be creative and aware of its audience (i.e., your 466 peers). The title of your audio blog entry should reflect the theme of your audiography. When listening to your audiography, your audience should be able to follow your rationale (even if implicit) throughout your recordings. Without narration or much editing, your audiography should persuasively use sound in order to give audiences a sense of some aspects of your everyday life and soundscapes. Your audio piece should tacitly correspond with class discussions and course material, and those correspondences should be explained and referenced in your written rationale.
+Your audiography is an experiment in sound, style, and genre. It should be creative and aware of its audience (i.e., your 466 peers). The title of your audio blog entry should reflect the theme of your audiography. When listening to your audiography, your audience should be able to follow your rationale (even if implicit) throughout your recordings. Without narration or much editing, your audiography should persuasively use sound to give audiences a sense of some aspects of your everyday life and soundscapes. Your audio piece should tacitly correspond with class discussions and course material, and those correspondences should be explained and referenced in your written rationale.
 
 ## Schedule 
 
@@ -57,11 +57,11 @@ Your audiography (the MP3 and the written rationale) is due on our audio blog by
 
 # Audio Documentary 
 
-Before you begin: I recommend reading “Hello!” (Sterne); “The Beauty of Noise: An Interview with Masami Akita of Merzbow,” “Noise and Politics” (Attali), “The Future of Music: Credo” (Cage), “The Art of Noises” (Russolo), selections from *Pink Noises* by Rodgers, “Replicant: On Dub” (Toop), “The Invisible Generation” (Burroughs), “Operating System for the Redesign of Sonic Reality” (Eshun), “Bettered by the Borrower: The Ethics of Musical Debt” (Oswald), “Composition as Process” (Cage), and the *Sounding Out!* series on Alan Lomax. I also recommend listening to audio work by KEXP and the Kitchen Sisters.
+Before you begin: I recommend reading “Hello!” (Sterne), “The Beauty of Noise: An Interview with Masami Akita of Merzbow,” “Noise and Politics” (Attali), “The Future of Music: Credo” (Cage), “The Art of Noises” (Russolo), selections from *Pink Noises* by Rodgers, “Replicant: On Dub” (Toop), “The Invisible Generation” (Burroughs), “Operating System for the Redesign of Sonic Reality” (Eshun), “Bettered by the Borrower: The Ethics of Musical Debt” (Oswald), “Composition as Process” (Cage), and the *Sounding Out!* series on Alan Lomax. I also recommend listening to audio work by KEXP and the Kitchen Sisters.
 
 You should probably at least review the following texts, which we’ve discussed (if only briefly) during class meetings: “Into Sound” (Bull and Back), “Modes of Listening” (Cox and Warner), “Some Sound Observations” (Oliveros), “The Music of the Environment” (Schafer), “Ambient Music” (Eno), “The Politics of Hearing” (Eisler and Adorno), “Acousmatics” (Schaeffer), and “The Liberation of Sound” (Varèse).
 
-## Aims for this Assignment
+## Aims of this Assignment
 
 For you to:
 
@@ -86,8 +86,8 @@ For you to:
 2. Research the technology and attend to the following: a) its technical particulars (what it’s made of; how did it work), b) cultural particulars (who used it, who made it, who had access to it, how did it emerge from culture), and c) contextual particulars (in what settings was it used, under what assumptions, to what effects).
 3. After you’ve conducted some research, begin drafting a short documentary that will communicate a tangible yet curious issue related to this technology. (Find the new in the old. Don’t take the “new” as a given. How did the new come about?) If possible, identify a key phrase or tagline for the documentary. It should be something catchy that grabs and keeps people’s attention. (No worries: persuasive scholarship can grab people’s attention, too.)
 4. Identify your target audience and at least one existing radio station that might play your documentary. At the doc’s end, you’ll need to mention the radio station (using call letters). That said, the conventions and style of your documentary should fit the station.
-5. Start composing your documentary. I suggest writing a script (or “copy”) first. As you write, make sure to leave room for the audio evidence. (Note: One typed, double-spaced page usually equals two minutes of reading aloud.) Also make sure to introduce your evidence in a way that makes sense to the audience and/or gives necessary credit where credit’s due (e.g., “According to ____”). Assume they are not reading your script or copy. You might also think about when repetition and/or emphasis will be necessary. Again, your audiences are listening, not reading—one reason why narrowing the doc to one and only one issue is a good idea.
-6. Polish your script, record your voice track, and then add the audio evidence. Listen to it when you’re finished. Are the levels ok? Does the audio sound good on speakers and headphones? Let others give it a listen, too. What do they think? Do you sound like you are reading? Does your voice sensationalize the issue? Does your voice correspond with someone who is invested in the topic?
+5. Start composing your documentary. I suggest writing a script (or “copy”) first. As you write, make sure to leave room for the audio evidence. (Note: One typed, double-spaced page usually equals two minutes of reading aloud.) Also make sure to introduce your evidence in a way that makes sense to the audience and/or gives necessary credit where credit’s due (e.g., "According to . . ."). Assume they are not reading your script or copy. You might also think about when repetition and/or emphasis will be necessary. Again, your audiences are listening, not reading (one reason why narrowing the doc to one and only one issue is a good idea).
+6. Polish your script, record your voice track, and then add the audio evidence. Listen to it once you’re finished. Are the levels ok? Does the audio sound good on speakers and headphones? Let others give it a listen, too. What do they think? Do you sound like you are reading? Does your voice correspond with someone who is invested in the topic?
 7. At the end of your documentary, make sure you: a) mention your name, documentary title, and radio station call letters, and b) state whether your audio was used with permission, according to fair dealing, or within the public domain (out of copyright), and c) thank anyone who’s helped you.
 8. Give your documentary a title, which will also be the title of your audio blog entry.
 9. Save, export as an MP3, and upload it to the blog. In the body of the entry, include the script for the documentary, too. Please categorize it under “audio doc.”
@@ -118,8 +118,8 @@ For you to:
 * Directly engage the relationships between audio, narrative, and questions of representation (audio, but for whom, by whom, how, to what effects, and under what assumptions).
 * Through your own audio composition, experiment with concepts (e.g., audiovisual litany, acousmatic sound, silence, noise, audiovisual dissonance, and semantic listening) we’ve discussed during class meetings.
 * Develop an audio piece that critically corresponds with visuals and visual culture.
-Interrogate the role of voice in sound, film, and cultural studies through a combination of knowing and doing.
-Gain additional experience in critical/deep listening, sound recording, and editing audio.
+* Interrogate the role of voice in sound, film, and cultural studies through a combination of knowing and doing.
+* Gain additional experience in critica or deep listening, sound recording, and editing audio.
 
 ## Constraints
 
@@ -127,7 +127,7 @@ Gain additional experience in critical/deep listening, sound recording, and edit
 * Audio should correspond with one to two minutes of a specific television show or film
 * However many tracks or recordings you deem necessary
 * A title for the piece (also the title for your blog entry)
-* At least one voice-over track, however long you deem appropriate (voice does not need to be yours)
+* At least one voice-over track, however long you deem appropriate (the voice does not need to be yours)
 * Effects and generated sounds are encouraged
 * Voices can be altered/edited
 * A precise, polished rationale for your piece (~250 words)
@@ -140,8 +140,8 @@ Gain additional experience in critical/deep listening, sound recording, and edit
 3. Listen to it without watching the visuals. Either turn off the screen or look away from it. Take notes on soundmarks, sound signals, and keynote sounds. Also attend to sonic flow, synch points, and sound shots. What is the auditory setting, and how does it influence narrative?
 4. Watch it with the sounds muted. Take notes on the effect of silence. If voice-over is used, then observe the effects of its absence. Also determine what, if any, visuals are more noticeable when the audio is muted. What is still meaningful without audio? What requires audio?
 5. After extended study of the clip, determine something specific that is key to its use or non-use of sound. This should be something that, if altered, would dramatically alter the interpretation of the clip. The more specific that something is, the easier this assignment will be.
-6. Now begin drafting a new audio layer for your one- to two-minute clip. This audio layer will replace the existing one. (See more below.) How you draft the audio is up to you. You can use paper and/or an audio editor. You can use found sound or recorded sound. You can use effects and generated sounds as you choose.
-7. During the drafting process, include—at some point—a voice-over track, which does NOT need to play throughout your audio layer. Type the spoken content of the track into a word processor or text editor and then save it. This text will be the voice-over script you will submit for your piece. If you wish, then in the script you can also include references to effects.
+6. Now begin drafting a new audio layer for your one- to two-minute clip. This audio layer will replace the existing one. (See more below.) How you draft the audio is up to you. You can use paper and/or an audio editor. You can use found sound or recorded-by-you sound. You can use effects and generated sounds as you choose.
+7. During the drafting process, include at some point a voice-over track, which does NOT need to play throughout your audio layer. Type the spoken content of the track into a word processor or text editor and then save it. This text will be the voice-over script you will submit for your piece. If you wish, then in the script you can also include references to effects.
 8. Using your draft material, record and edit your audio layer. Then export it as an MP3.
 9. Test it (at least twice) with your clip, playing the clip with: a) the intended sounds muted, and b) your MP3 playing over it. If you like, then you can use a video editor here. If you don’t know how to edit video, then you can simply use an MP3 playback device while your video is playing. In this case, do your best to sync your audio with the existing visual track. (Again, this course is not about hi-fi production.)
 10. If possible, have someone watch the clip with and without your soundtrack. Get feedback. Take notes how the audience responds to your soundtrack.
