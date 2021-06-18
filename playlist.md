@@ -1,4 +1,4 @@
-<p>For your reference, here&#8217;s a list of sound recordings informing this course. During <a href="https://web.archive.org/web/20161016004716/http://web.uvic.ca/~englblog/466f2015/schedule/">class meetings</a>, we&#8217;ll listen to samples from many of them. They are also available as a <a href="https://web.archive.org/web/20161016004716/https://www.zotero.org/jentery/items/collectionKey/TVPW2DRS" target="_blank">Zotero collection</a>.</p>
+<p>For your reference, here&#8217;s a list of sound recordings informing this course. During class meetings, we&#8217;ll listen to samples from many of them. They are also available as a <a href="https://web.archive.org/web/20161016004716/https://www.zotero.org/jentery/items/collectionKey/TVPW2DRS" target="_blank">Zotero collection</a>.</p>
 <ul>
 <li>Acker, Kathy (1999): <em>Redoing Childhood </em></li>
 <li>Adé, King Sunny (1982): &#8220;365 Is My Number,&#8221; <em>Juju Music</em></li>
