@@ -1,3 +1,9 @@
+English 466 | University of Victoria | Fall 2015   
+Instructor: Jentery Sayers | Assistant Professor | Department of English   
+Email: jentery@uvic.ca | Office: CLE D334 | Office Hours: M, 2:30-4:30 pm    
+
+# Course Playlist
+
 <p>For your reference, here&#8217;s a list of sound recordings informing this course. During class meetings, we&#8217;ll listen to samples from many of them. They are also available as a <a href="https://web.archive.org/web/20161016004716/https://www.zotero.org/jentery/items/collectionKey/TVPW2DRS" target="_blank">Zotero collection</a>.</p>
 <ul>
 <li>Acker, Kathy (1999): <em>Redoing Childhood </em></li>
